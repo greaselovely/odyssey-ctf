@@ -1,0 +1,7 @@
+{
+    "welcome": "CTF{odyssey_home_master}",
+    "task_injection": "CTF{task_injection_master}",
+    "cross_user_access": "CTF{cross_user_access}",
+    "admin_console": "CTF{admin_console_hacked}",
+    "system_compromised": "CTF{system_command_injection}"
+  }
